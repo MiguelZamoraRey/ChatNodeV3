@@ -9,7 +9,10 @@
   "author": "mzrdeveloper",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.1",
     "express": "^4.15.2",
+    "method-override": "^2.3.8",
+    "mysql": "^2.13.0",
     "socket.io": "^1.7.3"
   }
 }
